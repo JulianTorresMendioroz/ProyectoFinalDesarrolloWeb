@@ -68,6 +68,20 @@ body {
           flex-direction: row;
 }
 
+.footer .divfoot .imginsta {
+  height: 50px;
+  width: auto;
+}
+
+.footer .divfoot a {
+  color: black;
+  text-decoration: none;
+}
+
+.footer .divfoot p {
+  line-height: 50px;
+}
+
 .contactohtr {
   text-align: center;
 }

@@ -37,17 +37,19 @@ body {
     background-size: cover;
     height: 300px;
     text-align: center;
-
+    
 }
 
 .home {
 
     text-decoration-line: underline;
+
 }
 
 .jumbotron2 {
 
     text-align: center;
+    
 }
 
 .homeimages {
@@ -65,6 +67,7 @@ body {
     @extend .home;
     padding-bottom: 30px;
     padding-top: 30px;
+    
 }
 
 .footer {
@@ -76,9 +79,9 @@ body {
 
         @extend .home;
         padding-top: 50px;
-
         font-size: 25px;
         text-align: center;
+
     }
 
     .divfoot {
@@ -86,6 +89,28 @@ body {
         display: flex;
         justify-content: center;
         flex-direction: row;
+
+.imginsta{
+
+    height: 50px;
+    width: auto;
+}
+
+a{
+
+    color: black;
+
+    text-decoration: none;
+}
+
+    p{
+
+        line-height: 50px;
+
+        
+    }
+
+
     }
 
 }
@@ -114,7 +139,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+
 }
 
 .iframemapa {

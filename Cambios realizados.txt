@@ -1,0 +1,29 @@
+*Agregue distintos titulos para cada pagina:
+
+-Flor Estetic Inicio, Flor Estetic Mis Trabajos, Flor Estetic Hacé Tu Reserva,
+Flor Estetic Cuidados, Flor Estetic Mapa Local.
+
+*Agregue descriptions a todas las paginas:
+
+-index - FlorEstetic brinda muchos servicios para el bienestar de tu persona.
+
+-mis trabajos - FlorEstetic brinda trabajos de calidad en el rubro de Estética.
+
+-mapalocal - FlorEstetic acá nos encotramos, Mapa.
+
+-cuidados - FlorEstetic los distintos cuidados para los tratamientos.
+
+-hace tu reserva - FlorEstetic hacé tu reserva y contactanos.
+
+*Agregue keywords en todas las páginas:
+
+EJ: index - FlorEstetic, Estética, Perfilado de cejas, Radiofrecuencias, Liftings.
+
+mis trabajos - FlorEstetic, Estética, Perfilado de cejas, Radiofrecuencias, Liftings,
+ FlorEstética Mis Trabajos.
+
+mapalocal - FlorEstetic, Estética, Perfilado de cejas, Radiofrecuencias, Liftings, Mapa, Local.
+
+-cuidados - FlorEstetic, Estética, Perfilado de cejas, Radiofrecuencias, Liftings, Cuidados, Tratamientos.
+
+-hace tu reserva - FlorEstetic, Estética, Perfilado de cejas, Radiofrecuencias, Liftings, Reserva, Contacto.
