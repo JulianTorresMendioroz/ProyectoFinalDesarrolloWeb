@@ -1,0 +1,125 @@
+//reseteador INICIO 
+
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+//reseteador FIN
+
+// mixin INICIO
+
+@mixin tamaño ($height, $width) {
+
+    height: $height;
+    width: $width;
+}
+
+// mixin FIN
+
+body {
+
+    background-color: #FCE1DF;
+
+}
+
+.logo {
+
+    @include tamaño (60px, 60px);
+
+}
+
+.jumbotron {
+
+    background-image: url(../img/bannerjumbo.png);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+
+}
+
+.home {
+
+    text-decoration-line: underline;
+}
+
+.jumbotron2 {
+
+    text-align: center;
+}
+
+.homeimages {
+
+    border: 4px solid white;
+    border-radius: 40px;
+    @include tamaño (400px, 300px);
+    margin-bottom: 50px;
+
+}
+
+.pJumbo {
+
+    font-size: 30px;
+    @extend .home;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.footer {
+
+    background-color: white;
+    @include tamaño (200px, 100%);
+
+    .footerp {
+
+        @extend .home;
+        padding-top: 50px;
+
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .divfoot {
+
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+    }
+
+}
+
+.contactohtr {
+
+    text-align: center;
+
+}
+
+.phtr {
+
+    @extend .home;
+
+}
+
+.mapa {
+
+    p {
+
+        font-size: 30px;
+    }
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.iframemapa {
+
+    @include tamaño (400px, 400px);
+    padding-bottom: 50px;
+
+}
