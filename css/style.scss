@@ -56,7 +56,7 @@ body {
 
     border: 4px solid white;
     border-radius: 40px;
-    @include tamaño (400px, 300px);
+    @include tamaño (500px, 60vw);
     margin-bottom: 50px;
 
 }
@@ -144,7 +144,7 @@ a{
 
 .iframemapa {
 
-    @include tamaño (400px, 400px);
+    @include tamaño (500px, 60vw);
     padding-bottom: 50px;
 
 }
